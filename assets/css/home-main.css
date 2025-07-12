@@ -107,7 +107,7 @@
     text-transform: capitalize;
     display: inline-flex;
     align-items: center;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
     transition: all 400ms ease-in-out;
 }
 .slider-link:hover i{

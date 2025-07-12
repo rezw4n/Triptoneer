@@ -452,7 +452,7 @@ a:focus {
 }
 .navbar-expand-lg .navbar-nav .nav-link {
     color: var(--bistre-color);
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     padding: 0.5rem 0.9rem;
     font-weight: 500;
     font-size: 1rem;
@@ -522,7 +522,7 @@ a:focus {
 .dropdown-menu li > a {
     font-size: 0.875rem;
     padding: 0.7rem 0.9rem;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     color: #27304b;
     text-decoration: none;
     border-bottom: 1px solid #D9E7DB;
@@ -781,8 +781,8 @@ a:focus {
 }
 .breadcrumbs-page h1 {
     color: var(--white);
-    text-transform: capitalize;
-    font-size: 4.5rem;
+    /* text-transform: capitalize; */
+    font-size: 2.5rem;
     font-weight: 600;
     line-height: 1;
     padding: 10rem 0;
@@ -792,12 +792,12 @@ a:focus {
 /*------------------------------------------*/
 /*   4. Typography
 /*------------------------------------------*/
-h1, .h1{ font-size: 2.5rem; font-family: 'Playfair Display', serif; }
-h2, .h2{ font-size: 1.438rem; font-family: 'Playfair Display', serif; }
-h3, .h3{ font-size: 1.25rem; font-family: 'Playfair Display', serif; }
-h4, .h4{ font-size: 1.125rem; font-family: 'Playfair Display', serif; }
-h5, .h5{ font-size: 1rem; font-family: 'Playfair Display', serif; }
-h6, .h6{ font-size: 0.875rem; font-family: 'Playfair Display', serif; }
+h1, .h1{ font-size: 2.5rem; font-family: 'Calibri', serif; }
+h2, .h2{ font-size: 1.438rem; font-family: 'Calibri', serif; }
+h3, .h3{ font-size: 1.25rem; font-family: 'Calibre', serif; }
+h4, .h4{ font-size: 1.125rem; font-family: 'Calibre', serif; }
+h5, .h5{ font-size: 1rem; font-family: 'Calibre', serif; }
+h6, .h6{ font-size: 0.875rem; font-family: 'Calibre', serif; }
 
 /* Header H5 */
 h5.h5-xs { font-size: 0.875rem; }   /* 14px */
@@ -846,9 +846,9 @@ h2.h2-xl { font-size: 1.5rem; }     /* 24px */
 }
 .heading-main small {
     color: var(--secondary-color);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
     position: relative;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 15px;
     display: block;
     font-size: 1.2rem;
@@ -1263,8 +1263,8 @@ blockquote:before,
     -o-transition: all 400ms ease-in-out;
     -ms-transition: all 400ms ease-in-out;
     transition: all 400ms ease-in-out;
-    text-transform: capitalize;
-    font-family: 'Playfair Display', serif;
+    /* text-transform: capitalize; */
+    font-family: 'Calibre', serif;
     font-weight: 800;
     overflow: hidden;;
 }
@@ -2512,7 +2512,7 @@ footer .social-icons a:hover{
 }
 .client-testimonial-icon .text{
     margin-bottom: -32px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
 }
 .client-testimonial-icon .name {
     color: #27304b;
@@ -3080,7 +3080,7 @@ footer .social-icons a:hover{
 	outline:0;
 	display:block;
 	color:var(--white);
-	text-transform:capitalize;
+	/* text-transform:capitalize; */
 	outline:none;
 	position:relative;
 }
@@ -3144,7 +3144,7 @@ footer .social-icons a:hover{
     letter-spacing: -0.05rem;
     font-size: 1.275rem;
     padding: 12px 0 12px 60px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     position: relative;
     cursor: pointer;
 	font-weight: 600;
@@ -3199,7 +3199,7 @@ footer .social-icons a:hover{
     display: block;
     font-size: 14px;
     color: #7b7b7b;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 7px;
 }
 .theme-collapse a:hover{
@@ -3904,7 +3904,7 @@ footer .social-icons a:hover{
     z-index: 2;
     padding: 0 0 0 20px;
     margin: 1.4rem 0;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
 }
 .counter-style-box .counter-txt:before {
     position: absolute;
@@ -4498,8 +4498,8 @@ footer .social-icons a:hover{
 .static-banner .slider-link{
     color: #27304b;
     font-weight: 700;
-    text-transform: capitalize;
-    font-family: 'Playfair Display', serif;
+    /* text-transform: capitalize; */
+    font-family: 'Calibre', serif;
     display: inline-flex;
     align-items: center;
 }
@@ -4930,7 +4930,7 @@ footer .social-icons a:hover{
 .featured-cause-timer #featured-cause{
     margin: 0;
     font-weight: 600;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
 }
 .featured-cause-timer #featured-cause li{
     width: 24%;
@@ -4946,7 +4946,7 @@ footer .social-icons a:hover{
     color: #27304b;
     font-weight: 800;
     line-height: 1.2;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Calibre', serif;
 }
 .share-on-text{
     display: flex;
