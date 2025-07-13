@@ -2407,11 +2407,11 @@ footer .social-icons a:hover{
     margin-right: 20px;
 }
 .footer-widget-contact a{
-    color: var(--primary-color);
+    color: white;
     font-weight: 400;
 }
 .footer-widget-contact a:hover{
-    color: var(--white);
+    color: white;
 }
 .footer-widget-tweet i{
     color: #99a0a3;
